@@ -1,2 +1,2 @@
-# API-CRUD
-CRUD operation usnig API
+# CRUD operation using API
+*Deployement Link :* https://prakashs-dev.github.io/API-CRUD/ 
